@@ -1,0 +1,2 @@
+# blazorrapp
+try out blazor
